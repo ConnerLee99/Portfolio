@@ -157,7 +157,11 @@ p{
 }
 
 .leftSpa{
-    padding-left: 50px;
+     margin-top: 100px;
+    margin-right: 90%;
+    margin-bottom: 20px;
+    padding-right: 10px;
+    margin-left: 5px
 }
 
 .nextPage{

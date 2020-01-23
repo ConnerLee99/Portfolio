@@ -1,0 +1,168 @@
+*{
+    margin: 0px;
+}
+
+
+body {
+    position: relative;
+    background-image: url("images/code-shutterstock.jpeg");
+    background-size: 100%;
+    background-attachment: fixed;
+    
+}
+
+.headback {
+    background-color: rgba(0,0,0,0.85);
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-style: groove;
+    
+}
+
+.botback {
+    background-color: rgba(0,0,0,0.85);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-style: groove;  
+}
+
+.back {
+    background-color: rgba(0,0,0,0.85);
+    border-radius: 10px;
+    border-style: groove;  
+}
+
+*{
+    color: white;
+}
+
+.intro{
+  
+    padding-bottom: 10%;
+    
+    padding-top: 7%;
+    
+
+ }
+
+h1 {
+    font-size: 20px;
+    margin-right: 100px;
+
+    padding-bottom: 10%;
+    padding-left: 20%;
+    padding-top: 5%;
+}
+
+h4 {
+    padding-top: 0px;
+    text-align: center
+    
+
+}
+
+.container {
+    display:flex;
+    flex-direction: row;
+   
+}
+
+.header {
+    padding-right: 100px;
+    padding-bottom: 0px;
+    padding-left: 100px;
+    padding-top: 1.5%;
+}
+
+.header a:hover {
+    
+    color: thistle;
+    text-decoration: underline;
+
+}
+a{
+    
+    font-size: 20px;
+    color: white; 
+
+}
+.header a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white; 
+}
+
+.space{
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+   
+
+
+a :active {
+    
+    color: thistle;
+    font-weight: bold
+}
+
+nav {
+    position: fixed;
+    width: 99.6%;
+}
+.image {
+    padding-top: 10px;
+    border-radius: 500px;
+    width: 60px;
+    height: 60px;
+    
+}
+
+.impos{
+    margin-top: 0px;
+    margin-left: 100px;
+}
+
+
+p{
+    padding-top: 50px;
+    padding-right: 20%;
+    padding-left: 20%;
+    padding-bottom: 100px;
+    text-align: center;
+    
+}
+
+.meSize{
+    padding-left: 570px;
+    border-radius: 500px;
+    
+}
+
+.meShape{
+    border-radius: 500px;
+    padding-top: 200px;
+    height: 400px;
+
+}
+
+.termSpace{
+    padding-left: 10%;
+    margin-bottom: 15%;
+}
+
+.bottom{
+    padding-bottom: 1%;
+}
+
+.leftSpa{
+    padding-left: 50px;
+}
+
+.nextPage{
+    margin-top: 100px;
+    margin-left: 90%;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    margin-right: -5px
+}
